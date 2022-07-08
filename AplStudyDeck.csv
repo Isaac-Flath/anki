@@ -1,427 +1,427 @@
 1<br/>,"<span style=""white-space:pre; font-family: monospace"">1
-<br/></span><br/>"
+</span>"
 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">¯1
-<br/></span><br/>"
+</span>"
 1.5<br/>,"<span style=""white-space:pre; font-family: monospace"">1.5
-<br/></span><br/>"
+</span>"
 0j4<br/>,"<span style=""white-space:pre; font-family: monospace"">0J4
-<br/></span><br/>"
+</span>"
 ¯5j¯6<br/>,"<span style=""white-space:pre; font-family: monospace"">¯5J¯6
-<br/></span><br/>"
+</span>"
 ]Boxing on -style=max<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────────────────┐
-<br/>│Was ON -style=max│
-<br/>└─────────────────┘
-<br/></span><br/>"
+│Was ON -style=max│
+└─────────────────┘
+</span>"
 2 3 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│2 3 1│
-<br/>└~────┘
-<br/></span><br/>"
+│2 3 1│
+└~────┘
+</span>"
 2 ¯3 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→─────┐
-<br/>│2 ¯3 1│
-<br/>└~─────┘
-<br/></span><br/>"
+│2 ¯3 1│
+└~─────┘
+</span>"
 0j4 ¯5j¯6<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────────┐
-<br/>│0J4 ¯5J¯6│
-<br/>└~────────┘
-<br/></span><br/>"
+│0J4 ¯5J¯6│
+└~────────┘
+</span>"
 1 2 3 4 (1 2)<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────┐
-<br/>│         ┌→──┐ │
-<br/>│ 1 2 3 4 │1 2│ │
-<br/>│         └~──┘ │
-<br/>└∊──────────────┘
-<br/></span><br/>"
+│         ┌→──┐ │
+│ 1 2 3 4 │1 2│ │
+│         └~──┘ │
+└∊──────────────┘
+</span>"
 (1 2)(3 4)<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────────────┐
-<br/>│ ┌→──┐ ┌→──┐ │
-<br/>│ │1 2│ │3 4│ │
-<br/>│ └~──┘ └~──┘ │
-<br/>└∊────────────┘
-<br/></span><br/>"
+│ ┌→──┐ ┌→──┐ │
+│ │1 2│ │3 4│ │
+│ └~──┘ └~──┘ │
+└∊────────────┘
+</span>"
 (1 2)(3 4)5<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────┐
-<br/>│ ┌→──┐ ┌→──┐   │
-<br/>│ │1 2│ │3 4│ 5 │
-<br/>│ └~──┘ └~──┘   │
-<br/>└∊──────────────┘
-<br/></span><br/>"
+│ ┌→──┐ ┌→──┐   │
+│ │1 2│ │3 4│ 5 │
+│ └~──┘ └~──┘   │
+└∊──────────────┘
+</span>"
 - 4<br/>,"<span style=""white-space:pre; font-family: monospace"">  
-<br/>¯4
-<br/>  
-<br/></span><br/>"
+¯4
+  
+</span>"
 - ¯4<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>4
-<br/> 
-<br/></span><br/>"
+4
+ 
+</span>"
 - 4 2 0 ¯3 ¯5<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
-<br/>│¯4 ¯2 0 3 5│
-<br/>└~──────────┘
-<br/></span><br/>"
+│¯4 ¯2 0 3 5│
+└~──────────┘
+</span>"
 ¯4 2 0 ¯3 ¯5<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→───────────┐
-<br/>│¯4 2 0 ¯3 ¯5│
-<br/>└~───────────┘
-<br/></span><br/>"
+│¯4 2 0 ¯3 ¯5│
+└~───────────┘
+</span>"
 3-2<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>1
-<br/> 
-<br/></span><br/>"
+1
+ 
+</span>"
 3 2 1 - 4 5 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────┐
-<br/>│¯1 ¯3 0│
-<br/>└~──────┘
-<br/></span><br/>"
+│¯1 ¯3 0│
+└~──────┘
+</span>"
 3 2 1 - 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│2 1 0│
-<br/>└~────┘
-<br/></span><br/>"
+│2 1 0│
+└~────┘
+</span>"
 1 - 3 2 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────┐
-<br/>│¯2 ¯1 0│
-<br/>└~──────┘
-<br/></span><br/>"
+│¯2 ¯1 0│
+└~──────┘
+</span>"
 + 1.2<br/>,"<span style=""white-space:pre; font-family: monospace"">   
-<br/>1.2
-<br/>   
-<br/></span><br/>"
+1.2
+   
+</span>"
 + ¯5j¯6<br/>,"<span style=""white-space:pre; font-family: monospace"">    
-<br/>¯5J6
-<br/>    
-<br/></span><br/>"
+¯5J6
+    
+</span>"
 + 1.2 0j4 ¯5j¯6<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────────────┐
-<br/>│1.2 0J¯4 ¯5J6│
-<br/>└~────────────┘
-<br/></span><br/>"
+│1.2 0J¯4 ¯5J6│
+└~────────────┘
+</span>"
 3+2<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>5
-<br/> 
-<br/></span><br/>"
+5
+ 
+</span>"
 3 2 1 + 4 5 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│7 7 2│
-<br/>└~────┘
-<br/></span><br/>"
+│7 7 2│
+└~────┘
+</span>"
 3 2 1 + 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│4 3 2│
-<br/>└~────┘
-<br/></span><br/>"
+│4 3 2│
+└~────┘
+</span>"
 1 + 3 2 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│4 3 2│
-<br/>└~────┘
-<br/></span><br/>"
+│4 3 2│
+└~────┘
+</span>"
 ÷ 3 ¯2 3j4<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→───────────────────────────┐
-<br/>│0.3333333333 ¯0.5 0.12J¯0.16│
-<br/>└~───────────────────────────┘
-<br/></span><br/>"
+│0.3333333333 ¯0.5 0.12J¯0.16│
+└~───────────────────────────┘
+</span>"
 3÷2<br/>,"<span style=""white-space:pre; font-family: monospace"">   
-<br/>1.5
-<br/>   
-<br/></span><br/>"
+1.5
+   
+</span>"
 3÷2 2.5 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→─────────┐
-<br/>│1.5 1.2 ¯3│
-<br/>└~─────────┘
-<br/></span><br/>"
+│1.5 1.2 ¯3│
+└~─────────┘
+</span>"
 3 2 1÷2 2.5 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→─────────┐
-<br/>│1.5 0.8 ¯1│
-<br/>└~─────────┘
-<br/></span><br/>"
+│1.5 0.8 ¯1│
+└~─────────┘
+</span>"
 × 3.1 ¯2 0 3j4<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→─────────────┐
-<br/>│1 ¯1 0 0.6J0.8│
-<br/>└~─────────────┘
-<br/></span><br/>"
+│1 ¯1 0 0.6J0.8│
+└~─────────────┘
+</span>"
 3×2<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>6
-<br/> 
-<br/></span><br/>"
+6
+ 
+</span>"
 3×2 2.5 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→───────┐
-<br/>│6 7.5 ¯3│
-<br/>└~───────┘
-<br/></span><br/>"
+│6 7.5 ¯3│
+└~───────┘
+</span>"
 3 2 1×2 2.5 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→─────┐
-<br/>│6 5 ¯1│
-<br/>└~─────┘
-<br/></span><br/>"
+│6 5 ¯1│
+└~─────┘
+</span>"
 * 0 1 2<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────────────────────────┐
-<br/>│1 2.718281828 7.389056099│
-<br/>└~────────────────────────┘
-<br/></span><br/>"
+│1 2.718281828 7.389056099│
+└~────────────────────────┘
+</span>"
 49 5 ¯4 * 0.5 2 0.5<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→───────┐
-<br/>│7 25 0J2│
-<br/>└~───────┘
-<br/></span><br/>"
+│7 25 0J2│
+└~───────┘
+</span>"
 3×2+1<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>9
-<br/> 
-<br/></span><br/>"
+9
+ 
+</span>"
 1 2 3×2+1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│3 6 9│
-<br/>└~────┘
-<br/></span><br/>"
+│3 6 9│
+└~────┘
+</span>"
 1 2 3×2+2 4 6<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────┐
-<br/>│4 12 24│
-<br/>└~──────┘
-<br/></span><br/>"
+│4 12 24│
+└~──────┘
+</span>"
 3 ¯5 + 4<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→───┐
-<br/>│7 ¯1│
-<br/>└~───┘
-<br/></span><br/>"
+│7 ¯1│
+└~───┘
+</span>"
 8*÷3<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>2
-<br/> 
-<br/></span><br/>"
+2
+ 
+</span>"
 a<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>3
-<br/> 
-<br/></span><br/>"
+3
+ 
+</span>"
 ⎕←a←3<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>3
-<br/> 
-<br/></span><br/>"
+3
+ 
+</span>"
 b<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
-<br/>│3 4│
-<br/>└~──┘
-<br/></span><br/>"
+│3 4│
+└~──┘
+</span>"
 {⍵×2} 4<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>8
-<br/> 
-<br/></span><br/>"
+8
+ 
+</span>"
 f 4<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>8
-<br/> 
-<br/></span><br/>"
+8
+ 
+</span>"
 3 g 4<br/>,"<span style=""white-space:pre; font-family: monospace"">  
-<br/>20
-<br/>  
-<br/></span><br/>"
+20
+  
+</span>"
 h 4<br/>,"<span style=""white-space:pre; font-family: monospace"">  
-<br/>10
-<br/>  
-<br/></span><br/>"
+10
+  
+</span>"
 a<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>3
-<br/> 
-<br/></span><br/>"
+3
+ 
+</span>"
 ⎕←a ← 1 2 3 4 5 6<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
-<br/>│1 2 3 4 5 6│
-<br/>└~──────────┘
-<br/></span><br/>"
+│1 2 3 4 5 6│
+└~──────────┘
+</span>"
 ⎕←mat←2 3 ⍴ a<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>↓1 2 3│
-<br/>│4 5 6│
-<br/>└~────┘
-<br/></span><br/>"
+↓1 2 3│
+│4 5 6│
+└~────┘
+</span>"
 3 2 ⍴ a<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
-<br/>↓1 2│
-<br/>│3 4│
-<br/>│5 6│
-<br/>└~──┘
-<br/></span><br/>"
+↓1 2│
+│3 4│
+│5 6│
+└~──┘
+</span>"
 1 6 ⍴ a<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
-<br/>↓1 2 3 4 5 6│
-<br/>└~──────────┘
-<br/></span><br/>"
+↓1 2 3 4 5 6│
+└~──────────┘
+</span>"
 ⎕←c←2 2 3 ⍴ a<br/>,"<span style=""white-space:pre; font-family: monospace"">┌┌→────┐
-<br/>↓↓1 2 3│
-<br/>││4 5 6│
-<br/>││     │
-<br/>││1 2 3│
-<br/>││4 5 6│
-<br/>└└~────┘
-<br/></span><br/>"
+↓↓1 2 3│
+││4 5 6│
+││     │
+││1 2 3│
+││4 5 6│
+└└~────┘
+</span>"
 2 3 ⍴ 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>↓1 1 1│
-<br/>│1 1 1│
-<br/>└~────┘
-<br/></span><br/>"
+↓1 1 1│
+│1 1 1│
+└~────┘
+</span>"
 ⍴a<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→┐
-<br/>│6│
-<br/>└~┘
-<br/></span><br/>"
+│6│
+└~┘
+</span>"
 ⍴mat<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
-<br/>│2 3│
-<br/>└~──┘
-<br/></span><br/>"
+│2 3│
+└~──┘
+</span>"
 ⍴3<br/>,"<span style=""white-space:pre; font-family: monospace"">┌⊖┐
-<br/>│0│
-<br/>└~┘
-<br/></span><br/>"
+│0│
+└~┘
+</span>"
 ⍬<br/>,"<span style=""white-space:pre; font-family: monospace"">┌⊖┐
-<br/>│0│
-<br/>└~┘
-<br/></span><br/>"
+│0│
+└~┘
+</span>"
 ⍴⍬<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→┐
-<br/>│0│
-<br/>└~┘
-<br/></span><br/>"
+│0│
+└~┘
+</span>"
 ⍴⍴mat<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→┐
-<br/>│2│
-<br/>└~┘
-<br/></span><br/>"
+│2│
+└~┘
+</span>"
 ⍴⍴⍴mat<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→┐
-<br/>│1│
-<br/>└~┘
-<br/></span><br/>"
+│1│
+└~┘
+</span>"
 ⍴c<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│2 2 3│
-<br/>└~────┘
-<br/></span><br/>"
+│2 2 3│
+└~────┘
+</span>"
 ⍴⍴⍴c<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→┐
-<br/>│1│
-<br/>└~┘
-<br/></span><br/>"
+│1│
+└~┘
+</span>"
 'ACF'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
-<br/>│ACF│
-<br/>└───┘
-<br/></span><br/>"
+│ACF│
+└───┘
+</span>"
 'A' 'C' 'F'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
-<br/>│ACF│
-<br/>└───┘
-<br/></span><br/>"
+│ACF│
+└───┘
+</span>"
 ⍴'y'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌⊖┐
-<br/>│0│
-<br/>└~┘
-<br/></span><br/>"
+│0│
+└~┘
+</span>"
 ⍴'your boat'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→┐
-<br/>│9│
-<br/>└~┘
-<br/></span><br/>"
+│9│
+└~┘
+</span>"
 1 2 3 4 'a'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────────┐
-<br/>│1 2 3 4 a│
-<br/>└+────────┘
-<br/></span><br/>"
+│1 2 3 4 a│
+└+────────┘
+</span>"
 1 2 3 4 'ab'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→─────────────┐
-<br/>│         ┌→─┐ │
-<br/>│ 1 2 3 4 │ab│ │
-<br/>│         └──┘ │
-<br/>└∊─────────────┘
-<br/></span><br/>"
+│         ┌→─┐ │
+│ 1 2 3 4 │ab│ │
+│         └──┘ │
+└∊─────────────┘
+</span>"
 (1 2)(3 4)'ab'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→─────────────────┐
-<br/>│ ┌→──┐ ┌→──┐ ┌→─┐ │
-<br/>│ │1 2│ │3 4│ │ab│ │
-<br/>│ └~──┘ └~──┘ └──┘ │
-<br/>└∊─────────────────┘
-<br/></span><br/>"
+│ ┌→──┐ ┌→──┐ ┌→─┐ │
+│ │1 2│ │3 4│ │ab│ │
+│ └~──┘ └~──┘ └──┘ │
+└∊─────────────────┘
+</span>"
 ⍳4<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────┐
-<br/>│1 2 3 4│
-<br/>└~──────┘
-<br/></span><br/>"
+│1 2 3 4│
+└~──────┘
+</span>"
 ⍳2 3<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────────┐
-<br/>↓ ┌→──┐ ┌→──┐ ┌→──┐ │
-<br/>│ │1 1│ │1 2│ │1 3│ │
-<br/>│ └~──┘ └~──┘ └~──┘ │
-<br/>│ ┌→──┐ ┌→──┐ ┌→──┐ │
-<br/>│ │2 1│ │2 2│ │2 3│ │
-<br/>│ └~──┘ └~──┘ └~──┘ │
-<br/>└∊──────────────────┘
-<br/></span><br/>"
+↓ ┌→──┐ ┌→──┐ ┌→──┐ │
+│ │1 1│ │1 2│ │1 3│ │
+│ └~──┘ └~──┘ └~──┘ │
+│ ┌→──┐ ┌→──┐ ┌→──┐ │
+│ │2 1│ │2 2│ │2 3│ │
+│ └~──┘ └~──┘ └~──┘ │
+└∊──────────────────┘
+</span>"
 2 3 ⍴ ⍳6<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>↓1 2 3│
-<br/>│4 5 6│
-<br/>└~────┘
-<br/></span><br/>"
+↓1 2 3│
+│4 5 6│
+└~────┘
+</span>"
 1+2×⍳6<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────────────┐
-<br/>│3 5 7 9 11 13│
-<br/>└~────────────┘
-<br/></span><br/>"
+│3 5 7 9 11 13│
+└~────────────┘
+</span>"
 ⍳0<br/>,"<span style=""white-space:pre; font-family: monospace"">┌⊖┐
-<br/>│0│
-<br/>└~┘
-<br/></span><br/>"
+│0│
+└~┘
+</span>"
 1 3 6 5 4 ⍳ 3<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>2
-<br/> 
-<br/></span><br/>"
+2
+ 
+</span>"
 'ABCDABCDEF' ⍳ 'ACFG'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────────┐
-<br/>│1 3 10 11│
-<br/>└~────────┘
-<br/></span><br/>"
+│1 3 10 11│
+└~────────┘
+</span>"
 ⎕←mat←3 2 ⍴ ⍳6<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
-<br/>↓1 2│
-<br/>│3 4│
-<br/>│5 6│
-<br/>└~──┘
-<br/></span><br/>"
+↓1 2│
+│3 4│
+│5 6│
+└~──┘
+</span>"
 mat ⍳ 5 6<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>3
-<br/> 
-<br/></span><br/>"
+3
+ 
+</span>"
 1 = 1<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>1
-<br/> 
-<br/></span><br/>"
+1
+ 
+</span>"
 1 = 1 2<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
-<br/>│1 0│
-<br/>└~──┘
-<br/></span><br/>"
+│1 0│
+└~──┘
+</span>"
 1 = 1 1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
-<br/>│1 1│
-<br/>└~──┘
-<br/></span><br/>"
+│1 1│
+└~──┘
+</span>"
 'Banana' = 'aaaaaa'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
-<br/>│0 1 0 1 0 1│
-<br/>└~──────────┘
-<br/></span><br/>"
+│0 1 0 1 0 1│
+└~──────────┘
+</span>"
 'Banana' = 'a'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
-<br/>│0 1 0 1 0 1│
-<br/>└~──────────┘
-<br/></span><br/>"
+│0 1 0 1 0 1│
+└~──────────┘
+</span>"
 'Banana' 'Apple' 'Candy' = 'a'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────────────────────────────┐
-<br/>│ ┌→──────────┐ ┌→────────┐ ┌→────────┐ │
-<br/>│ │0 1 0 1 0 1│ │0 0 0 0 0│ │0 1 0 0 0│ │
-<br/>│ └~──────────┘ └~────────┘ └~────────┘ │
-<br/>└∊──────────────────────────────────────┘
-<br/></span><br/>"
+│ ┌→──────────┐ ┌→────────┐ ┌→────────┐ │
+│ │0 1 0 1 0 1│ │0 0 0 0 0│ │0 1 0 0 0│ │
+│ └~──────────┘ └~────────┘ └~────────┘ │
+└∊──────────────────────────────────────┘
+</span>"
 ≠22 10 22 22 21 10 5 10<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────┐
-<br/>│1 1 0 0 1 0 1 0│
-<br/>└~──────────────┘
-<br/></span><br/>"
+│1 1 0 0 1 0 1 0│
+└~──────────────┘
+</span>"
 ≠ 'Banana'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
-<br/>│1 1 1 0 0 0│
-<br/>└~──────────┘
-<br/></span><br/>"
+│1 1 1 0 0 0│
+└~──────────┘
+</span>"
 ≠ 'Mississippi'<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────────────────────┐
-<br/>│1 1 1 0 0 0 0 0 1 0 0│
-<br/>└~────────────────────┘
-<br/></span><br/>"
+│1 1 1 0 0 0 0 0 1 0 0│
+└~────────────────────┘
+</span>"
 1 2 3 ≠ 4 2 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│1 0 1│
-<br/>└~────┘
-<br/></span><br/>"
+│1 0 1│
+└~────┘
+</span>"
 7 ≠ '7'<br/>,"<span style=""white-space:pre; font-family: monospace""> 
-<br/>1
-<br/> 
-<br/></span><br/>"
+1
+ 
+</span>"
 1 2 3 < 4 2 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│1 0 0│
-<br/>└~────┘
-<br/></span><br/>"
+│1 0 0│
+└~────┘
+</span>"
 1 2 3 < 2<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│1 0 0│
-<br/>└~────┘
-<br/></span><br/>"
+│1 0 0│
+└~────┘
+</span>"
 1 2 3 > 4 2 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│0 0 1│
-<br/>└~────┘
-<br/></span><br/>"
+│0 0 1│
+└~────┘
+</span>"
 1 2 3 > 2<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│0 0 1│
-<br/>└~────┘
-<br/></span><br/>"
+│0 0 1│
+└~────┘
+</span>"
 1 2 3 ≤ 4 2 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│1 1 0│
-<br/>└~────┘
-<br/></span><br/>"
+│1 1 0│
+└~────┘
+</span>"
 1 2 3 ≤ 2<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│1 1 0│
-<br/>└~────┘
-<br/></span><br/>"
+│1 1 0│
+└~────┘
+</span>"
 1 2 3 ≥ 4 2 ¯1<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│0 1 1│
-<br/>└~────┘
-<br/></span><br/>"
+│0 1 1│
+└~────┘
+</span>"
 1 2 3 ≥ 2<br/>,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
-<br/>│0 1 1│
-<br/>└~────┘
-<br/></span><br/>"
+│0 1 1│
+└~────┘
+</span>"
 |3j4<br/>,"<span style=""white-space:pre; font-family: monospace"">5
-<br/></span><br/>"
+</span>"
 2j2÷(|2j2)<br/>,"<span style=""white-space:pre; font-family: monospace"">0.707107J0.707107
-<br/></span><br/>"
+</span>"
 ×2j2<br/>,"<span style=""white-space:pre; font-family: monospace"">0.707107J0.707107
-<br/></span><br/>"
+</span>"
 `-`, (Minus sign; Bar)<br/><br/>Monadic  (Negate)<br/><br/>Dyadic  (Minus; subtract)<br/><br/>
  (Minus sign; Bar)<br/><br/>Monadic  (Negate)<br/><br/>Dyadic  (Minus; subtract)<br/><br/>,`-`
 `+`, (Plus sign)<br/><br/>Monadic  (Conjugate)<br/><br/>Dyadic  (Plus)<br/><br/>
