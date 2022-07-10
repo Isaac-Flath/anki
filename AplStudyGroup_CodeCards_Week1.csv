@@ -1,0 +1,442 @@
+1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">1
+</span>",Code->Output
+¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">¯1
+</span>",Code->Output
+1.5<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">1.5
+</span>",Code->Output
+0j4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">0J4
+</span>",Code->Output
+¯5j¯6<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">¯5J¯6
+</span>",Code->Output
+]Boxing on -style=max<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────────────────┐
+│Was ON -style=max│
+└─────────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Minus Sign.htm'>Take me to -</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Equal Sign.htm'>Take me to =</a>",Code->Output
+2 3 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│2 3 1│
+└~────┘
+</span>",Code->Output
+2 ¯3 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→─────┐
+│2 ¯3 1│
+└~─────┘
+</span>",Code->Output
+0j4 ¯5j¯6<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────────┐
+│0J4 ¯5J¯6│
+└~────────┘
+</span>",Code->Output
+1 2 3 4 (1 2)<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────┐
+│         ┌→──┐ │
+│ 1 2 3 4 │1 2│ │
+│         └~──┘ │
+└∊──────────────┘
+</span>",Code->Output
+(1 2)(3 4)<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────────────┐
+│ ┌→──┐ ┌→──┐ │
+│ │1 2│ │3 4│ │
+│ └~──┘ └~──┘ │
+└∊────────────┘
+</span>",Code->Output
+(1 2)(3 4)5<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────┐
+│ ┌→──┐ ┌→──┐   │
+│ │1 2│ │3 4│ 5 │
+│ └~──┘ └~──┘   │
+└∊──────────────┘
+</span>",Code->Output
+- 4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">  
+¯4
+  
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Minus Sign.htm'>Take me to -</a>",Code->Output
+- ¯4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+4
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Minus Sign.htm'>Take me to -</a>",Code->Output
+- 4 2 0 ¯3 ¯5<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
+│¯4 ¯2 0 3 5│
+└~──────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Minus Sign.htm'>Take me to -</a>",Code->Output
+¯4 2 0 ¯3 ¯5<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→───────────┐
+│¯4 2 0 ¯3 ¯5│
+└~───────────┘
+</span>",Code->Output
+3-2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+1
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Minus Sign.htm'>Take me to -</a>",Code->Output
+3 2 1 - 4 5 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────┐
+│¯1 ¯3 0│
+└~──────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Minus Sign.htm'>Take me to -</a>",Code->Output
+3 2 1 - 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│2 1 0│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Minus Sign.htm'>Take me to -</a>",Code->Output
+1 - 3 2 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────┐
+│¯2 ¯1 0│
+└~──────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Minus Sign.htm'>Take me to -</a>",Code->Output
++ 1.2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">   
+1.2
+   
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
++ ¯5j¯6<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">    
+¯5J6
+    
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
++ 1.2 0j4 ¯5j¯6<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────────────┐
+│1.2 0J¯4 ¯5J6│
+└~────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+3+2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+5
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+3 2 1 + 4 5 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│7 7 2│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+3 2 1 + 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│4 3 2│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+1 + 3 2 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│4 3 2│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+÷ 3 ¯2 3j4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→───────────────────────────┐
+│0.3333333333 ¯0.5 0.12J¯0.16│
+└~───────────────────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Divide Sign.htm'>Take me to ÷</a>",Code->Output
+3÷2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">   
+1.5
+   
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Divide Sign.htm'>Take me to ÷</a>",Code->Output
+3÷2 2.5 ¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→─────────┐
+│1.5 1.2 ¯3│
+└~─────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Divide Sign.htm'>Take me to ÷</a>",Code->Output
+3 2 1÷2 2.5 ¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→─────────┐
+│1.5 0.8 ¯1│
+└~─────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Divide Sign.htm'>Take me to ÷</a>",Code->Output
+× 3.1 ¯2 0 3j4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→─────────────┐
+│1 ¯1 0 0.6J0.8│
+└~─────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a>",Code->Output
+3×2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+6
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a>",Code->Output
+3×2 2.5 ¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→───────┐
+│6 7.5 ¯3│
+└~───────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a>",Code->Output
+3 2 1×2 2.5 ¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→─────┐
+│6 5 ¯1│
+└~─────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a>",Code->Output
+* 0 1 2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────────────────────────┐
+│1 2.718281828 7.389056099│
+└~────────────────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Star.htm'>Take me to *</a>",Code->Output
+49 5 ¯4 * 0.5 2 0.5<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→───────┐
+│7 25 0J2│
+└~───────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Star.htm'>Take me to *</a>",Code->Output
+3×2+1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+9
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+1 2 3×2+1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│3 6 9│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+1 2 3×2+2 4 6<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────┐
+│4 12 24│
+└~──────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+3 ¯5 + 4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→───┐
+│7 ¯1│
+└~───┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+8*÷3<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+2
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Star.htm'>Take me to *</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Divide Sign.htm'>Take me to ÷</a>",Code->Output
+a<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+3
+ 
+</span>",Code->Output
+⎕←a←3<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+3
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a>",Code->Output
+{⍵×2} 4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+8
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a>",Code->Output
+"f ← {⍵×2}
+<br/>f 4<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace""> 
+8
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a>",Code->Output
+"g ← {⍵×2+⍺}
+<br/>3 g 4<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">  
+20
+  
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+"f ← {⍵×2}
+<br/>h ← {2 + f ⍵}
+<br/>h 4<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">  
+10
+  
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a>",Code->Output
+"a b ← 3 4
+<br/>a<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace""> 
+3
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a>",Code->Output
+⎕ ← 1 2 3 4 5 6<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
+│1 2 3 4 5 6│
+└~──────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a>",Code->Output
+"a ← 1 2 3 4 5 6
+<br/>⎕←mat←2 3 ⍴ a<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→────┐
+↓1 2 3│
+│4 5 6│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+"a ← 1 2 3 4 5 6
+<br/>3 2 ⍴ a<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→──┐
+↓1 2│
+│3 4│
+│5 6│
+└~──┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+"a ← 1 2 3 4 5 6
+<br/>1 6 ⍴ a<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
+↓1 2 3 4 5 6│
+└~──────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+"a ← 1 2 3 4 5 6
+<br/>⎕←c←2 2 3 ⍴ a<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌┌→────┐
+↓↓1 2 3│
+││4 5 6│
+││     │
+││1 2 3│
+││4 5 6│
+└└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+2 3 ⍴ 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+↓1 1 1│
+│1 1 1│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+"a ← 1 2 3 4 5 6
+<br/>⍴a<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→┐
+│6│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+"mat←2 3 ⍴ a
+<br/>⍴mat<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→──┐
+│2 3│
+└~──┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+⍴3<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌⊖┐
+│0│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+⍬<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌⊖┐
+│0│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Zilde Symbol.htm'>Take me to ⍬</a>",Code->Output
+⍴⍬<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→┐
+│0│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Zilde Symbol.htm'>Take me to ⍬</a>",Code->Output
+"mat←2 3 ⍴ a
+<br/>⍴⍴mat<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→┐
+│2│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+"mat←2 3 ⍴ a
+<br/>⍴⍴⍴mat<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→┐
+│1│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+"c←2 2 3 ⍴ a
+<br/>⍴c<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│2 2 3│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+"c←2 2 3 ⍴ a
+<br/>⍴⍴⍴c<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→┐
+│1│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+'ACF'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
+│ACF│
+└───┘
+</span>",Code->Output
+'A' 'C' 'F'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
+│ACF│
+└───┘
+</span>",Code->Output
+⍴'y'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌⊖┐
+│0│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+⍴'your boat'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→┐
+│9│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a>",Code->Output
+1 2 3 4 'a'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────────┐
+│1 2 3 4 a│
+└+────────┘
+</span>",Code->Output
+1 2 3 4 'ab'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→─────────────┐
+│         ┌→─┐ │
+│ 1 2 3 4 │ab│ │
+│         └──┘ │
+└∊─────────────┘
+</span>",Code->Output
+(1 2)(3 4)'ab'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→─────────────────┐
+│ ┌→──┐ ┌→──┐ ┌→─┐ │
+│ │1 2│ │3 4│ │ab│ │
+│ └~──┘ └~──┘ └──┘ │
+└∊─────────────────┘
+</span>",Code->Output
+⍳4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────┐
+│1 2 3 4│
+└~──────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Iota.htm'>Take me to ⍳</a>",Code->Output
+⍳2 3<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────────┐
+↓ ┌→──┐ ┌→──┐ ┌→──┐ │
+│ │1 1│ │1 2│ │1 3│ │
+│ └~──┘ └~──┘ └~──┘ │
+│ ┌→──┐ ┌→──┐ ┌→──┐ │
+│ │2 1│ │2 2│ │2 3│ │
+│ └~──┘ └~──┘ └~──┘ │
+└∊──────────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Iota.htm'>Take me to ⍳</a>",Code->Output
+2 3 ⍴ ⍳6<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+↓1 2 3│
+│4 5 6│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Iota.htm'>Take me to ⍳</a>",Code->Output
+1+2×⍳6<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────────────┐
+│3 5 7 9 11 13│
+└~────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Plus Sign.htm'>Take me to +</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Iota.htm'>Take me to ⍳</a>",Code->Output
+⍳0<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌⊖┐
+│0│
+└~┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Iota.htm'>Take me to ⍳</a>",Code->Output
+1 3 6 5 4 ⍳ 3<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+2
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Iota.htm'>Take me to ⍳</a>",Code->Output
+'ABCDABCDEF' ⍳ 'ACFG'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────────┐
+│1 3 10 11│
+└~────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Iota.htm'>Take me to ⍳</a>",Code->Output
+⎕←mat←3 2 ⍴ ⍳6<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
+↓1 2│
+│3 4│
+│5 6│
+└~──┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Iota.htm'>Take me to ⍳</a>",Code->Output
+"mat←3 2 ⍴ ⍳6
+<br/>mat ⍳ 5 6<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace""> 
+3
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Rho.htm'>Take me to ⍴</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Iota.htm'>Take me to ⍳</a>",Code->Output
+1 = 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+1
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Equal Sign.htm'>Take me to =</a>",Code->Output
+1 = 1 2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
+│1 0│
+└~──┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Equal Sign.htm'>Take me to =</a>",Code->Output
+1 = 1 1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──┐
+│1 1│
+└~──┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Equal Sign.htm'>Take me to =</a>",Code->Output
+'Banana' = 'aaaaaa'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
+│0 1 0 1 0 1│
+└~──────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Equal Sign.htm'>Take me to =</a>",Code->Output
+'Banana' = 'a'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
+│0 1 0 1 0 1│
+└~──────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Equal Sign.htm'>Take me to =</a>",Code->Output
+'Banana' 'Apple' 'Candy' = 'a'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────────────────────────────┐
+│ ┌→──────────┐ ┌→────────┐ ┌→────────┐ │
+│ │0 1 0 1 0 1│ │0 0 0 0 0│ │0 1 0 0 0│ │
+│ └~──────────┘ └~────────┘ └~────────┘ │
+└∊──────────────────────────────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Equal Sign.htm'>Take me to =</a>",Code->Output
+≠22 10 22 22 21 10 5 10<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────────┐
+│1 1 0 0 1 0 1 0│
+└~──────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Not Equal To.htm'>Take me to ≠</a>",Code->Output
+≠ 'Banana'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→──────────┐
+│1 1 1 0 0 0│
+└~──────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Not Equal To.htm'>Take me to ≠</a>",Code->Output
+≠ 'Mississippi'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────────────────────┐
+│1 1 1 0 0 0 0 0 1 0 0│
+└~────────────────────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Not Equal To.htm'>Take me to ≠</a>",Code->Output
+1 2 3 ≠ 4 2 ¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│1 0 1│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Not Equal To.htm'>Take me to ≠</a>",Code->Output
+7 ≠ '7'<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+1
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Not Equal To.htm'>Take me to ≠</a>",Code->Output
+1 2 3 < 4 2 ¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│1 0 0│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Less Than Sign.htm'>Take me to <</a>",Code->Output
+1 2 3 < 2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│1 0 0│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Less Than Sign.htm'>Take me to <</a>",Code->Output
+1 2 3 > 4 2 ¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│0 0 1│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Greater Than Sign.htm'>Take me to ></a>",Code->Output
+1 2 3 > 2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│0 0 1│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Greater Than Sign.htm'>Take me to ></a>",Code->Output
+1 2 3 ≤ 4 2 ¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│1 1 0│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Less Than Or Equal To Sign.htm'>Take me to ≤</a>",Code->Output
+1 2 3 ≤ 2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│1 1 0│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Less Than Or Equal To Sign.htm'>Take me to ≤</a>",Code->Output
+1 2 3 ≥ 4 2 ¯1<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│0 1 1│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Greater Than Or Equal To Sign.htm'>Take me to ≥</a>",Code->Output
+1 2 3 ≥ 2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">┌→────┐
+│0 1 1│
+└~────┘
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Greater Than Or Equal To Sign.htm'>Take me to ≥</a>",Code->Output
+|3j4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+5
+ 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Stile.htm'>Take me to |</a>",Code->Output
+2j2÷(|2j2)<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">                 
+0.707107J0.707107
+                 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Divide Sign.htm'>Take me to ÷</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Stile.htm'>Take me to |</a>",Code->Output
+×2j2<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace"">                 
+0.707107J0.707107
+                 
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Times Sign.htm'>Take me to ×</a>",Code->Output
