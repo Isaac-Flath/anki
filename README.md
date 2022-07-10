@@ -4,10 +4,13 @@ This repo is to hold stuff for my Anki repetitive spaced learning decks.  Curren
 
 # Fastai APL Study Group Instructions
 
-If you are following the [fastai apl-study group](https://forums.fast.ai/t/apl-array-programming/97188) (either live or pre-recorded) follow these instructions.  These will allow cards to be added as you follow along in the course.
+If you are following the [fastai apl-study group](https://forums.fast.ai/t/apl-array-programming/97188) follow these instructions.  These will allow cards to be added as you follow along in the course.
 
-1. Load the `AplStudyGroup_CodeCards_Week1.csv` deck.  This has all the cards covered in week 1 of the fastai apl study group.  Unfortunately I do not have week 1 broken out by day (but feel free to enter a PR that does this!).
-1. After watching each study group session check back to load any new decks.  They will be named `AplStudyGroup_CodeCards_Session<num>diff.csv`.  This will create a deck with any cards that have either changed or created based on the latest changes.  For example `AplStudyGroup_CodeCards_Session5diff.csv` will have only cards modified or added during Session 5 of the study group.
++ Load the `AplStudyGroup_CodeCards_Sessions<num>.csv` deck after each session you watch.  This has all the cards covered up to the session of the fastai apl study group.  Unfortunately I do not have sessions 1 - 3 broken out (they are included in Session4) but please submit a PR for that if you'd like!
++ Be sure the following options are selected when you Import the Deck:
+    + `Deck` is named "APL Study Group" (Or whatever sensible name you'd like)
+    + `Update Existing notes when first field matches` is selected in the drop down
+    + `Allow HTML in fields` Should be checked
 
 # Files
 
