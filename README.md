@@ -11,6 +11,7 @@ If you are following the [fastai apl-study group](https://forums.fast.ai/t/apl-a
     + `Deck` is named "APL Study Group" (Or whatever sensible name you'd like)
     + `Update Existing notes when first field matches` is selected in the drop down
     + `Allow HTML in fields` Should be checked
++ Depending on experience some cards may seem so simple you don't need them.  For example what does `1` output, with the answer being `1` may be so simple you don't want a card for it.  Simply `Suspend` the card and it won't come up again.  That said, I would use suspend somewhat conservatively.
 
 # Files
 
