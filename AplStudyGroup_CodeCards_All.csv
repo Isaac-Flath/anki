@@ -162,13 +162,19 @@
 2
  
 </span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Star.htm'>Take me to *</a> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Divide Sign.htm'>Take me to ÷</a>",Code->Output
-a<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
+"a←3
+<br/>a<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace""> 
 3
  
-</span>",Code->Output
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a>",Code->Output
 ⎕←a←3<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
 3
  
+</span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a>",Code->Output
+"b←3 4
+<br/>b<br/> <br/><br/>What does the code output?","<span style=""white-space:pre; font-family: monospace"">┌→──┐
+│3 4│
+└~──┘
 </span> <br/><br/><a href='https://help.dyalog.com/18.2/Content/Language/Symbols/Left Arrow.htm'>Take me to ←</a>",Code->Output
 {⍵×2} 4<br/> <br/><br/>What does the code output?,"<span style=""white-space:pre; font-family: monospace""> 
 8
