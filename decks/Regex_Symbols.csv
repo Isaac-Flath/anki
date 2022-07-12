@@ -50,3 +50,55 @@ A(?!B) ,Negative lookahead assertion. This matches the expression A only if it i
 "re.search(A, B) ","Matches the first instance of an expression A in a string B, and returns it as a re match object.",Popular Python re Module Functions
 "re.split(A, B) ",Split a string B into a list using the delimiter A.,Popular Python re Module Functions
 "re.sub(A, B, C) ",Replace A with B in the string C.,Popular Python re Module Functions
+Matches the expression to its right at the start of a string. It matches every such instance before each \n in the string.,^ ,Special Characters
+Matches the expression to its left at the end of a string. It matches every such instance before each \n in the string.,$ ,Special Characters
+Matches any character except line terminators like \n.,. ,Special Characters
+Escapes special characters or denotes character classes.,\ ,Special Characters
+"Matches expression A or B. If A is matched first, B is left untried.",A|B,Special Characters
+Greedily matches the expression to its left 1 or more times.,+ ,Special Characters
+Greedily matches the expression to its left 0 or more times.,* ,Special Characters
+"Greedily matches the expression to its left 0 or 1 times. But if ? is added to qualifiers (+, *, and ? itself) it will perform matches in a non-greedy manner.",? ,Special Characters
+"Matches the expression to its left m times, and not less.",{m} ,Special Characters
+"Matches the expression to its left m to n times, and not less.","{m,n} ",Special Characters
+"Matches the expression to its left m times, and ignores n. See ? above.","{m,n}? ",Special Characters
+"Matches alphanumeric characters, which means a-z, A-Z, and 0-9. It also matches the underscore, _.",\w ,Character Classes (a.k.a. Special Sequences)
+"Matches digits, which means 0-9.",\d ,Character Classes (a.k.a. Special Sequences)
+Matches any non-digits.,\D ,Character Classes (a.k.a. Special Sequences)
+"Matches whitespace characters, which include the \t, \n, \r, and space characters.",\s ,Character Classes (a.k.a. Special Sequences)
+Matches non-whitespace characters.,\S ,Character Classes (a.k.a. Special Sequences)
+"Matches the boundary (or empty string) at the start and end of a word, that is, between \w and \W.",\b ,Character Classes (a.k.a. Special Sequences)
+"Matches where \b does not, that is, the boundary of \w characters.",\B ,Character Classes (a.k.a. Special Sequences)
+Matches the expression to its right at the absolute start of a string whether in single or multi-line mode.,\A ,Character Classes (a.k.a. Special Sequences)
+Matches the expression to its left at the absolute end of a string whether in single or multi-line mode.,\Z ,Character Classes (a.k.a. Special Sequences)
+Contains a set of characters to match.,[ ] ,Sets
+"Matches either a, m, or k. It does not match amk.",[amk] ,Sets
+Matches any alphabet from a to z.,[a-z] ,Sets
+"Matches a, -, or z. It matches - because \ escapes it.",[a\-z] ,Sets
+"Matches a or -, because - is not being used to indicate a series of characters.",[a-] ,Sets
+"As above, matches a or -.",[-a] ,Sets
+Matches characters from a to z and also from 0 to 9.,[a-z0-9] ,Sets
+"Special characters become literal inside a set, so this matches (, +, *, and ).",[(+*)] ,Sets
+"Adding ^ excludes any character in the set. Here, it matches characters that are not a, b, or 5.",[^ab5] ,Sets
+Matches the expression inside the parentheses and groups it.,( ) ,Groups
+"Inside parentheses like this, ? acts as an extension notation. Its meaning depends on the character immediately to its right.",(? ) ,Groups
+"Matches the expression AB, and it can be accessed with the group name.",(?PAB) ,Groups
+"Here, a, i, L, m, s, u, and x are flags:",(?aiLmsux) ,Groups
+Matches ASCII only,a ,Groups
+Ignore case,i ,Groups
+Locale dependent,L ,Groups
+Multi-line,m ,Groups
+Matches all,s ,Groups
+Matches unicode,u ,Groups
+Verbose,x ,Groups
+"Matches the expression as represented by A, but unlike (?PAB), it cannot be retrieved afterwards.",(?:A) ,Groups
+"A comment. Contents are for us to read, not for matching.",(?#...) ,Groups
+Lookahead assertion. This matches the expression A only if it is followed by B.,A(?=B) ,Groups
+Negative lookahead assertion. This matches the expression A only if it is not followed by B.,A(?!B) ,Groups
+Positive lookbehind assertion. This matches the expression A only if B is immediately to its left. This can only matched fixed length expressions.,(?<=B)A ,Groups
+Negative lookbehind assertion. This matches the expression A only if B is not immediately to its left. This can only matched fixed length expressions.,(?<!B)A ,Groups
+Matches the expression matched by an earlier group named “name”.,(?P=name) ,Groups
+"The number 1 corresponds to the first group to be matched. If we want to match more instances of the same expresion, simply use its number instead of writing out the whole expression again. We can use from 1 up to 99 such groups and their corresponding numbers.",(...)\1 ,Groups
+Matches all instances of an expression A in a string B and returns them in a list.,"re.findall(A, B) ",Popular Python re Module Functions
+"Matches the first instance of an expression A in a string B, and returns it as a re match object.","re.search(A, B) ",Popular Python re Module Functions
+Split a string B into a list using the delimiter A.,"re.split(A, B) ",Popular Python re Module Functions
+Replace A with B in the string C.,"re.sub(A, B, C) ",Popular Python re Module Functions
