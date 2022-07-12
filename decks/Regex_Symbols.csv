@@ -1,0 +1,52 @@
+^ ,Matches the expression to its right at the start of a string. It matches every such instance before each \n in the string.,Special Characters
+$ ,Matches the expression to its left at the end of a string. It matches every such instance before each \n in the string.,Special Characters
+. ,Matches any character except line terminators like \n.,Special Characters
+\ ,Escapes special characters or denotes character classes.,Special Characters
+A|B,"Matches expression A or B. If A is matched first, B is left untried.",Special Characters
++ ,Greedily matches the expression to its left 1 or more times.,Special Characters
+* ,Greedily matches the expression to its left 0 or more times.,Special Characters
+? ,"Greedily matches the expression to its left 0 or 1 times. But if ? is added to qualifiers (+, *, and ? itself) it will perform matches in a non-greedy manner.",Special Characters
+{m} ,"Matches the expression to its left m times, and not less.",Special Characters
+"{m,n} ","Matches the expression to its left m to n times, and not less.",Special Characters
+"{m,n}? ","Matches the expression to its left m times, and ignores n. See ? above.",Special Characters
+\w ,"Matches alphanumeric characters, which means a-z, A-Z, and 0-9. It also matches the underscore, _.",Character Classes (a.k.a. Special Sequences)
+\d ,"Matches digits, which means 0-9.",Character Classes (a.k.a. Special Sequences)
+\D ,Matches any non-digits.,Character Classes (a.k.a. Special Sequences)
+\s ,"Matches whitespace characters, which include the \t, \n, \r, and space characters.",Character Classes (a.k.a. Special Sequences)
+\S ,Matches non-whitespace characters.,Character Classes (a.k.a. Special Sequences)
+\b ,"Matches the boundary (or empty string) at the start and end of a word, that is, between \w and \W.",Character Classes (a.k.a. Special Sequences)
+\B ,"Matches where \b does not, that is, the boundary of \w characters.",Character Classes (a.k.a. Special Sequences)
+\A ,Matches the expression to its right at the absolute start of a string whether in single or multi-line mode.,Character Classes (a.k.a. Special Sequences)
+\Z ,Matches the expression to its left at the absolute end of a string whether in single or multi-line mode.,Character Classes (a.k.a. Special Sequences)
+[ ] ,Contains a set of characters to match.,Sets
+[amk] ,"Matches either a, m, or k. It does not match amk.",Sets
+[a-z] ,Matches any alphabet from a to z.,Sets
+[a\-z] ,"Matches a, -, or z. It matches - because \ escapes it.",Sets
+[a-] ,"Matches a or -, because - is not being used to indicate a series of characters.",Sets
+[-a] ,"As above, matches a or -.",Sets
+[a-z0-9] ,Matches characters from a to z and also from 0 to 9.,Sets
+[(+*)] ,"Special characters become literal inside a set, so this matches (, +, *, and ).",Sets
+[^ab5] ,"Adding ^ excludes any character in the set. Here, it matches characters that are not a, b, or 5.",Sets
+( ) ,Matches the expression inside the parentheses and groups it.,Groups
+(? ) ,"Inside parentheses like this, ? acts as an extension notation. Its meaning depends on the character immediately to its right.",Groups
+(?PAB) ,"Matches the expression AB, and it can be accessed with the group name.",Groups
+(?aiLmsux) ,"Here, a, i, L, m, s, u, and x are flags:",Groups
+a ,Matches ASCII only,Groups
+i ,Ignore case,Groups
+L ,Locale dependent,Groups
+m ,Multi-line,Groups
+s ,Matches all,Groups
+u ,Matches unicode,Groups
+x ,Verbose,Groups
+(?:A) ,"Matches the expression as represented by A, but unlike (?PAB), it cannot be retrieved afterwards.",Groups
+(?#...) ,"A comment. Contents are for us to read, not for matching.",Groups
+A(?=B) ,Lookahead assertion. This matches the expression A only if it is followed by B.,Groups
+A(?!B) ,Negative lookahead assertion. This matches the expression A only if it is not followed by B.,Groups
+(?<=B)A ,Positive lookbehind assertion. This matches the expression A only if B is immediately to its left. This can only matched fixed length expressions.,Groups
+(?<!B)A ,Negative lookbehind assertion. This matches the expression A only if B is not immediately to its left. This can only matched fixed length expressions.,Groups
+(?P=name) ,Matches the expression matched by an earlier group named “name”.,Groups
+(...)\1 ,"The number 1 corresponds to the first group to be matched. If we want to match more instances of the same expresion, simply use its number instead of writing out the whole expression again. We can use from 1 up to 99 such groups and their corresponding numbers.",Groups
+"re.findall(A, B) ",Matches all instances of an expression A in a string B and returns them in a list.,Popular Python re Module Functions
+"re.search(A, B) ","Matches the first instance of an expression A in a string B, and returns it as a re match object.",Popular Python re Module Functions
+"re.split(A, B) ",Split a string B into a list using the delimiter A.,Popular Python re Module Functions
+"re.sub(A, B, C) ",Replace A with B in the string C.,Popular Python re Module Functions

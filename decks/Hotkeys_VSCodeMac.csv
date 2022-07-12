@@ -1,0 +1,114 @@
+General<br/><br/>Show Command Palette,"⇧⌘P, F1",General
+"General<br/><br/>Quick Open, Go to File...",⌘P,General
+General<br/><br/>New window/instance,⇧⌘N,General
+General<br/><br/>Close window/instance,⌘W,General
+General<br/><br/>User Settings,"⌘,",General
+General<br/><br/>Keyboard Shortcuts,⌘K ⌘S ,General
+Basic editing<br/><br/>Cut line (empty selection),⌘X,Basic editing
+Basic editing<br/><br/>Copy line (empty selection),⌘C,Basic editing
+Basic editing<br/><br/>Move line down/up,⌥↓ / ⌥↑,Basic editing
+Basic editing<br/><br/>Copy line down/up,⇧⌥↓ / ⇧⌥↑,Basic editing
+Basic editing<br/><br/>Delete line,⇧⌘K,Basic editing
+Basic editing<br/><br/>Insert line below/above,⌘Enter / ⇧⌘Enter,Basic editing
+Basic editing<br/><br/>Jump to matching bracket,⇧⌘\,Basic editing
+Basic editing<br/><br/>Indent/outdent line,⌘] / ⌘[,Basic editing
+Basic editing<br/><br/>Go to beginning/end of line,Home / End,Basic editing
+Basic editing<br/><br/>Go to beginning/end of file,⌘↑ / ⌘↓,Basic editing
+Basic editing<br/><br/>Scroll line up/down,⌃PgUp / ⌃PgDn,Basic editing
+Basic editing<br/><br/>Scroll page up/down,⌘PgUp /⌘PgDn ,Basic editing
+Basic editing<br/><br/>Fold/unfold region,⌥⌘[ / ⌥⌘],Basic editing
+Basic editing<br/><br/>Fold/unfold all subregions,⌘K ⌘[ / ⌘K ⌘] ,Basic editing
+Basic editing<br/><br/>Fold/unfold all regions,⌘K ⌘0 / ⌘K ⌘J ,Basic editing
+Basic editing<br/><br/>Add line comment,⌘K ⌘C ,Basic editing
+Basic editing<br/><br/>Remove line comment,⌘K ⌘U,Basic editing
+Basic editing<br/><br/>Toggle line comment,⌘/,Basic editing
+Basic editing<br/><br/>Toggle block comment,⇧⌥A,Basic editing
+Basic editing<br/><br/>Toggle word wrap,⌥Z,Basic editing
+Multi-cursor and selection<br/><br/>Insert cursor,⌥ + click,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Insert cursor above,⌥⌘↑,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Insert cursor below,⌥⌘↓,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Undo last cursor operation,⌘U,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Insert cursor at end of each line selected,⇧⌥I,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Select current line,⌘L,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Select all occurrences of current selection,⇧⌘L,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Select all occurrences of current word,⌘F2,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Expand / shrink selection,⌃⇧⌘→ / ←,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Column (box) selection,⇧⌥ + drag mouse,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Column (box) selection up/down,⇧⌥⌘↑ / ↓,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Column (box) selection left/right,⇧⌥⌘← / →,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Column (box) selection page up,⇧⌥⌘PgUp,Multi-cursor and selection
+Multi-cursor and selection<br/><br/>Column (box) selection page down,⇧⌥⌘PgDn,Multi-cursor and selection
+Search and replace<br/><br/>Find,⌘F,Search and replace
+Search and replace<br/><br/>Replace,⌥⌘F,Search and replace
+Search and replace<br/><br/>Find next/previous,⌘G / ⇧⌘G,Search and replace
+Search and replace<br/><br/>Select all occurrences of Find match,⌥Enter,Search and replace
+Search and replace<br/><br/>Add selection to next Find match,⌘D,Search and replace
+Search and replace<br/><br/>Move last selection to next Find match,⌘K ⌘D ,Search and replace
+Rich languages editing<br/><br/>Trigger suggestion,"⌃Space, ⌘I ",Rich languages editing
+Rich languages editing<br/><br/>Trigger parameter hints,⇧⌘Space,Rich languages editing
+Rich languages editing<br/><br/>Format document,⇧⌥F,Rich languages editing
+Rich languages editing<br/><br/>Format selection,⌘K ⌘F ,Rich languages editing
+Rich languages editing<br/><br/>Go to Definition,F12,Rich languages editing
+Rich languages editing<br/><br/>Peek Definition,⌥F12,Rich languages editing
+Rich languages editing<br/><br/>Open Definition to the side,⌘K F12 ,Rich languages editing
+Rich languages editing<br/><br/>Quick Fix,⌘.,Rich languages editing
+Rich languages editing<br/><br/>Show References,⇧F12,Rich languages editing
+Rich languages editing<br/><br/>Rename Symbol,F2,Rich languages editing
+Rich languages editing<br/><br/>Trim trailing whitespace,⌘K ⌘X ,Rich languages editing
+Rich languages editing<br/><br/>Change file language,⌘K M ,Rich languages editing
+Navigation<br/><br/>Show all Symbols,⌘T,Navigation
+Navigation<br/><br/>Go to Line...,⌃G,Navigation
+Navigation<br/><br/>Go to File...,⌘P,Navigation
+Navigation<br/><br/>Go to Symbol...,⇧⌘O,Navigation
+Navigation<br/><br/>Show Problems panel,⇧⌘M,Navigation
+Navigation<br/><br/>Go to next/previous error or warning,F8 / ⇧F8,Navigation
+Navigation<br/><br/>Navigate editor group history,⌃⇧Tab,Navigation
+Navigation<br/><br/>Go back/forward,⌃- / ⌃⇧-,Navigation
+Navigation<br/><br/>Toggle Tab moves focus,⌃⇧M,Navigation
+Editor management<br/><br/>Close editor,⌘W,Editor management
+Editor management<br/><br/>Close folder,⌘K F ,Editor management
+Editor management<br/><br/>Split editor,⌘\,Editor management
+"Editor management<br/><br/>Focus into 1st, 2nd, 3rd editor group",⌘1 / ⌘2 / ⌘3 ,Editor management
+Editor management<br/><br/>Focus into previous/next editor group,⌘K ⌘← / ⌘K ⌘→ ,Editor management
+Editor management<br/><br/>Move editor left/right,⌘K ⇧⌘← / ⌘K ⇧⌘→ ,Editor management
+Editor management<br/><br/>Move active editor group,⌘K ← / ⌘K → ,Editor management
+File management<br/><br/>New File,⌘N,File management
+File management<br/><br/>Open File...,⌘O,File management
+File management<br/><br/>Save,⌘S,File management
+File management<br/><br/>Save As...,⇧⌘S,File management
+File management<br/><br/>Save All,⌥⌘S,File management
+File management<br/><br/>Close,⌘W,File management
+File management<br/><br/>Close All,⌘K ⌘W ,File management
+File management<br/><br/>Reopen closed editor,⇧⌘T,File management
+File management<br/><br/>Enter Keep preview mode editor open,⌘K,File management
+File management<br/><br/>Open next / previous,⌃Tab / ⌃⇧Tab,File management
+File management<br/><br/>Copy path of active file,⌘K P,File management
+File management<br/><br/>Reveal active file in Finder,⌘K R,File management
+File management<br/><br/>Show active file in new window/instance,⌘K O,File management
+Display<br/><br/>Toggle full screen,⌃⌘F,Display
+Display<br/><br/>Toggle editor layout (horizontal/vertical),⌥⌘0,Display
+Display<br/><br/>Zoom in/out,⌘= / ⇧⌘-,Display
+Display<br/><br/>Toggle Sidebar visibility,⌘B,Display
+Display<br/><br/>focus,⇧⌘E Show Explorer / Toggle,Display
+Display<br/><br/>Show Search,⇧⌘F,Display
+Display<br/><br/>Show Source Control,⌃⇧G,Display
+Display<br/><br/>Show Debug,⇧⌘D,Display
+Display<br/><br/>Show Extensions,⇧⌘X,Display
+Display<br/><br/>Replace in files,⇧⌘H,Display
+Display<br/><br/>Toggle Search details,⇧⌘J,Display
+Display<br/><br/>Show Output panel,⇧⌘U,Display
+Display<br/><br/>Open Markdown preview,⇧⌘V,Display
+Display<br/><br/>Open Markdown preview to the side,⌘K V,Display
+Display<br/><br/>Zen Mode (Esc Esc to exit),⌘K Z,Display
+Debug<br/><br/>Toggle breakpoint,F9,Debug
+Debug<br/><br/>Start/Continue,F5,Debug
+Debug<br/><br/>Step into/ out,F11 / ⇧F11,Debug
+Debug<br/><br/>Step over,F10,Debug
+Debug<br/><br/>Stop,⇧F5,Debug
+Debug<br/><br/>Show hover,⌘K ⌘I ,Debug
+Integrated terminal<br/><br/>Show integrated terminal,⌃`,Integrated terminal
+Integrated terminal<br/><br/>Create new terminal,⌃⇧`,Integrated terminal
+Integrated terminal<br/><br/>Copy selection,⌘C,Integrated terminal
+Integrated terminal<br/><br/>Scroll up/down,⌘↑ / ↓,Integrated terminal
+Integrated terminal<br/><br/>Scroll page up/down,PgUp / PgDn,Integrated terminal
+Integrated terminal<br/><br/>Scroll to top/bottom,⌘Home / End,Integrated terminal

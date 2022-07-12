@@ -1,0 +1,165 @@
+Navigation<br/><br/>Back,command + ←,Navigation
+Navigation<br/><br/>Back,command + [,Navigation
+Navigation<br/><br/>Forward,command + →,Navigation
+Navigation<br/><br/>Forward,command + ],Navigation
+Navigation<br/><br/>Home,option + home,Navigation
+Navigation<br/><br/>Open File,command + O,Navigation
+Navigation<br/><br/>Reload,F5,Navigation
+Navigation<br/><br/>Reload,command + R,Navigation
+Navigation<br/><br/>Reload (override cache),command + shift + R,Navigation
+Navigation<br/><br/>Stop,Esc,Navigation
+Navigation<br/><br/>Stop,command + .,Navigation
+Current Page<br/><br/>Focus Next Link or Input Field,Tab,Current Page
+Current Page<br/><br/>Focus Previous Link or Input Field,Shift + Tab,Current Page
+Current Page<br/><br/>Go Down a Screen,Page Down,Current Page
+Current Page<br/><br/>Go Down a Screen,fn + ↓,Current Page
+Current Page<br/><br/>Go Down a Screen,Space bar,Current Page
+Current Page<br/><br/>Go Up a Screen,Page Up,Current Page
+Current Page<br/><br/>Go Up a Screen,fn + ↑,Current Page
+Current Page<br/><br/>Go Up a Screen,Shift + Space bar,Current Page
+Current Page<br/><br/>Go to Bottom of Page,End,Current Page
+Current Page<br/><br/>Go to Bottom of Page,command + ↓,Current Page
+Current Page<br/><br/>Go to Top of Page,Home,Current Page
+Current Page<br/><br/>Go to Top of Page,command + ↑,Current Page
+"Current Page<br/><br/>Move to Next Frame, Pop-Up",F6,Current Page
+"Current Page<br/><br/>Move to Previous Frame, Pop-Up",Shift + F6,Current Page
+Current Page<br/><br/>Print,command + P,Current Page
+Current Page<br/><br/>Save Focused Link,option + return,Current Page
+Current Page<br/><br/>Save Focused Link,"-when browser.altClickSave is set to true (as in the Configuration Editor), which is not the default.",Current Page
+Current Page<br/><br/>Save Page As,command + S,Current Page
+Current Page<br/><br/>Zoom In,command + +,Current Page
+Current Page<br/><br/>Zoom Out,command + -,Current Page
+Current Page<br/><br/>Zoom Reset,command + 0,Current Page
+Search<br/><br/>Find Previous,Shift + F3,Search
+Search<br/><br/>Find Previous,command + shift + G,Search
+Search<br/><br/>Quick Find within link-text only,',Search
+Search<br/><br/>Quick Find,/,Search
+Search<br/><br/>Close the Find or Quick Find bar,Esc,Search
+Search<br/><br/>Close the Find or Quick Find bar,- when the Find or Quick Find bar is focused,Search
+Search<br/><br/>Switch Search Engine,option + ↓,Search
+Search<br/><br/>Switch Search Engine,option + ↑,Search
+Search<br/><br/>Switch Search Engine,- after you have written something (or pressed ↓) in the address bar,Search
+Search<br/><br/>Web Search with Default Search Engine,Type ? and a space (or only ?) into empty Address Bar,Search
+Search<br/><br/>Focus Address bar for Web Search with Default Search Engine,command + K,Search
+Search<br/><br/>Focus Address bar for Web Search with Default Search Engine,command + option + F,Search
+Search<br/><br/>Focus Address bar for Web Search with Default Search Engine,- if search bar is not shown,Search
+Search<br/><br/>Focus Search bar,command + K,Search
+Search<br/><br/>Focus Search bar,command + option + F,Search
+Search<br/><br/>Focus Search bar,- if search bar is shown,Search
+Search<br/><br/>Change the Default Search Engine,command + ↓,Search
+Search<br/><br/>Change the Default Search Engine,command + ↑,Search
+Search<br/><br/>Change the Default Search Engine,- in the Search bar or the Search field of the New Tab page.,Search
+"Search<br/><br/>View menu to switch, add or manage search engines",option + ↓,Search
+"Search<br/><br/>View menu to switch, add or manage search engines",option + ↑,Search
+"Search<br/><br/>View menu to switch, add or manage search engines",- when the Search bar is focused,Search
+Windows & Tabs<br/><br/>Close Tab,command + W,Windows & Tabs
+Windows & Tabs<br/><br/>Close Tab,- except for Pinned Tabs,Windows & Tabs
+Windows & Tabs<br/><br/>Close Window,command + shift + W,Windows & Tabs
+Windows & Tabs<br/><br/>Cycle through Tabs in Recently Used Order,control + tab,Windows & Tabs
+Windows & Tabs<br/><br/>Cycle through Tabs in Recently Used Order,-if enabled in Preferences,Windows & Tabs
+Windows & Tabs<br/><br/>Quit,command + Q,Windows & Tabs
+Windows & Tabs<br/><br/>Go one Tab to the Left,control + page up,Windows & Tabs
+Windows & Tabs<br/><br/>Go one Tab to the Left,command + option + ←,Windows & Tabs
+Windows & Tabs<br/><br/>Go one Tab to the Left,control + shift + tab*,Windows & Tabs
+Windows & Tabs<br/><br/>Go one Tab to the Left,* see below,Windows & Tabs
+Windows & Tabs<br/><br/>Go one Tab to the Right,control + page down,Windows & Tabs
+Windows & Tabs<br/><br/>Go one Tab to the Right,command + option + →,Windows & Tabs
+Windows & Tabs<br/><br/>Go one Tab to the Right,control + tab*,Windows & Tabs
+Windows & Tabs<br/><br/>Go one Tab to the Right,* if the setting Ctrl+Tab cycles through tabs in recently used order is disabled in Preferences,Windows & Tabs
+Windows & Tabs<br/><br/>Go to Tab 1 to 8,command + 1 to 8,Windows & Tabs
+Windows & Tabs<br/><br/>Go to Last Tab,command + 9,Windows & Tabs
+Windows & Tabs<br/><br/>Move Tab Left,Ctrl + Shift + Page Up,Windows & Tabs
+Windows & Tabs<br/><br/>Move Tab Right,Ctrl + Shift + Page Down,Windows & Tabs
+Windows & Tabs<br/><br/>Move Tab to start,command + shift + home,Windows & Tabs
+Windows & Tabs<br/><br/>Move Tab to start,"- requires the currently selected tab to be ""in focus"" for instance, by hitting command + L to focus the address bar, and then Shift + Tab until you reach the browser tab bar.",Windows & Tabs
+Windows & Tabs<br/><br/>Move Tab to end,command + shift + end,Windows & Tabs
+Windows & Tabs<br/><br/>Move Tab to end,"- requires the currently selected tab to be ""in focus"" for instance, by hitting command + L to focus the address bar, and then Shift + Tab until you reach the browser tab bar.",Windows & Tabs
+Windows & Tabs<br/><br/>Mute/Unmute Audio,control + M,Windows & Tabs
+Windows & Tabs<br/><br/>New Tab,command + T,Windows & Tabs
+Windows & Tabs<br/><br/>New Window,command + N,Windows & Tabs
+Windows & Tabs<br/><br/>New Private Window,command + shift + P,Windows & Tabs
+Windows & Tabs<br/><br/>Open Address or Search in New Background Tab,option + shift + return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Address or Search in New Background Tab,- from address bar,Windows & Tabs
+Windows & Tabs<br/><br/>Open Address or Search in New Foreground Tab,option + return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Address or Search in New Foreground Tab,- from address bar or Search bar,Windows & Tabs
+Windows & Tabs<br/><br/>Open Address or Search in New Window,shift + return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Address or Search in New Window,- from address bar or the Search field on the New Tab page,Windows & Tabs
+Windows & Tabs<br/><br/>Open Search in New Background Tab,command + shift + return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Search in New Background Tab,- from the Search field on the New Tab page.,Windows & Tabs
+Windows & Tabs<br/><br/>Open Search in New Background Tab,"(see note, below)",Windows & Tabs
+Windows & Tabs<br/><br/>Open Search in New Foreground Tab,command + return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Search in New Foreground Tab,- from the Search field on the New Tab page.,Windows & Tabs
+Windows & Tabs<br/><br/>Open Search in New Foreground Tab,"Note: The Foreground and Background Tab shortcuts are switched if the setting When you open a link in a new tab, switch to it immediately is enabled in Preferences",Windows & Tabs
+Windows & Tabs<br/><br/>Open Focused Bookmark or Link in Current Tab,return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Focused Bookmark in New Foreground Tab,command + return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Focused Bookmark in New Background Tab,command + shift + return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Focused Link in New Background Tab,command + return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Focused Link in New Background Tab,"(see note, below)",Windows & Tabs
+Windows & Tabs<br/><br/>Open Focused Link in New Foreground Tab,command + shift + return,Windows & Tabs
+Windows & Tabs<br/><br/>Open Focused Link in New Foreground Tab,"Note: The Foreground and Background Tab shortcuts are switched if the setting When you open a link in a new tab, switch to it immediately is enabled in Preferences",Windows & Tabs
+Windows & Tabs<br/><br/>Open Focused Bookmark or Link in New Window,shift + return,Windows & Tabs
+Windows & Tabs<br/><br/>Show All Tabs,control + shift + tab,Windows & Tabs
+Windows & Tabs<br/><br/>Show All Tabs,- if the setting Ctrl+Tab cycles through tabs in recently used order is enabled in Preferences,Windows & Tabs
+Windows & Tabs<br/><br/>Undo Close Tab,command + shift + T,Windows & Tabs
+Windows & Tabs<br/><br/>Undo Close Window,command + shift + N,Windows & Tabs
+Windows & Tabs<br/><br/>Moves the URL left or right (if cursor is in the address bar),command + shift + X,Windows & Tabs
+History<br/><br/>History sidebar,command + shift + H,History
+History<br/><br/>Clear Recent History,command + shift + delete,History
+Bookmarks<br/><br/>Bookmark All Tabs,command + shift + D,Bookmarks
+Bookmarks<br/><br/>Bookmark This Page,command + D,Bookmarks
+Bookmarks<br/><br/>Bookmarks sidebar,command + B,Bookmarks
+Bookmarks<br/><br/>Show/hide the Bookmarks toolbar,command + shift + B,Bookmarks
+Bookmarks<br/><br/>Show All Bookmarks (Library Window),command + shift + O,Bookmarks
+Bookmarks<br/><br/>Show List of All Bookmarks,Space,Bookmarks
+Bookmarks<br/><br/>Show List of All Bookmarks,- in Empty Search Field in Bookmarks Library Window or Sidebar.,Bookmarks
+Bookmarks<br/><br/>Focus Next Bookmark/Folder whose name (or sorted property) starts with a given character or character sequence,Type the character or quickly type the character sequence.,Bookmarks
+Bookmarks<br/><br/>Focus Next Bookmark/Folder whose name (or sorted property) starts with a given character or character sequence,"- in Bookmarks Library, Bookmarks Toolbar, Bookmarks Menu, Bookmarks Sidebar",Bookmarks
+Tools<br/><br/>Downloads,command + J,Tools
+Tools<br/><br/>Add-ons,command + shift + A,Tools
+Tools<br/><br/>Toggle Developer Tools,F12,Tools
+Tools<br/><br/>Toggle Developer Tools,command + alt + I,Tools
+Tools<br/><br/>Web Console,command + alt + K,Tools
+Tools<br/><br/>Inspector,command + alt + C,Tools
+Tools<br/><br/>Take a screenshot,command + shift + S,Tools
+Tools<br/><br/>Style Editor,Shift + F7,Tools
+Tools<br/><br/>Profiler,Shift + F5,Tools
+Tools<br/><br/>Network,command + alt + E,Tools
+Tools<br/><br/>Responsive Design View,command + alt + M,Tools
+Tools<br/><br/>Page Source,command + U,Tools
+Tools<br/><br/>Browser Console,command + shift + J,Tools
+Tools<br/><br/>Page Info,command + I,Tools
+PDF Viewer<br/><br/>Next page,N or J or →,PDF Viewer
+PDF Viewer<br/><br/>Previous page,P or K or ←,PDF Viewer
+PDF Viewer<br/><br/>Zoom in,command + +,PDF Viewer
+PDF Viewer<br/><br/>Zoom out,command + -,PDF Viewer
+PDF Viewer<br/><br/>Automatic Zoom,command + 0,PDF Viewer
+PDF Viewer<br/><br/>Rotate the document clockwise,R,PDF Viewer
+PDF Viewer<br/><br/>Rotate counterclockwise,Shift + R,PDF Viewer
+PDF Viewer<br/><br/>Switch to Presentation Mode,command + Alt + P,PDF Viewer
+PDF Viewer<br/><br/>Choose Text Selection Tool,S,PDF Viewer
+PDF Viewer<br/><br/>Choose Hand Tool,H,PDF Viewer
+PDF Viewer<br/><br/>Focus the Page Number input box,command + Alt + G,PDF Viewer
+Miscellaneous<br/><br/>Complete .com Address,control + return,Miscellaneous
+Miscellaneous<br/><br/>Delete Selected Autocomplete Entry,shift + delete,Miscellaneous
+Miscellaneous<br/><br/>Toggle Full Screen,command+Shift+F,Miscellaneous
+Miscellaneous<br/><br/>Toggle Reader Mode,command+option+R,Miscellaneous
+Miscellaneous<br/><br/>Caret Browsing,F7,Miscellaneous
+Miscellaneous<br/><br/>Focus Address Bar,F6,Miscellaneous
+Miscellaneous<br/><br/>Focus Address Bar,command + L,Miscellaneous
+Miscellaneous<br/><br/>Focus Search Field in Library,F6,Miscellaneous
+Miscellaneous<br/><br/>Focus Search Field in Library,command + F,Miscellaneous
+Miscellaneous<br/><br/>Stop Autoscroll Mode,Esc,Miscellaneous
+Miscellaneous<br/><br/>Cancel Drag-and-Drop Operation,Esc,Miscellaneous
+Miscellaneous<br/><br/>Clear Search Field in Library or Sidebar,Esc,Miscellaneous
+Miscellaneous<br/><br/>Close a Menu,Esc,Miscellaneous
+Media shortcuts<br/><br/>Toggle Play / Pause,Space bar,Media shortcuts
+Media shortcuts<br/><br/>Decrease volume,↓,Media shortcuts
+Media shortcuts<br/><br/>Increase volume,↑,Media shortcuts
+Media shortcuts<br/><br/>Mute audio,command + ↓,Media shortcuts
+Media shortcuts<br/><br/>Unmute audio,command + ↑,Media shortcuts
+Media shortcuts<br/><br/>Seek back 15 seconds,←,Media shortcuts
+Media shortcuts<br/><br/>Seek back 10 %,command + ←,Media shortcuts
+Media shortcuts<br/><br/>Seek forward 15 seconds,→,Media shortcuts
+Media shortcuts<br/><br/>Seek forward 10 %,command + →,Media shortcuts
+Media shortcuts<br/><br/>Seek to the beginning,Home,Media shortcuts
+Media shortcuts<br/><br/>Seek to the end,End,Media shortcuts

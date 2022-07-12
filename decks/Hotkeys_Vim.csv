@@ -1,0 +1,219 @@
+Global<br/><br/>open help for keyword,:h[elp] keyword,Global
+Global<br/><br/>save file as,:sav[eas] file,Global
+Global<br/><br/>close current pane,:clo[se],Global
+Global<br/><br/>open a terminal window,:ter[minal],Global
+Global<br/><br/>open man page for word under the cursor,K,Global
+Cursor movement<br/><br/>move cursor left,h,Cursor movement
+Cursor movement<br/><br/>move cursor down,j,Cursor movement
+Cursor movement<br/><br/>move cursor up,k,Cursor movement
+Cursor movement<br/><br/>move cursor right,l,Cursor movement
+Cursor movement<br/><br/>move cursor down (multi-line text),gj,Cursor movement
+Cursor movement<br/><br/>move cursor up (multi-line text),gk,Cursor movement
+Cursor movement<br/><br/>move to top of screen,H,Cursor movement
+Cursor movement<br/><br/>move to middle of screen,M,Cursor movement
+Cursor movement<br/><br/>move to bottom of screen,L,Cursor movement
+Cursor movement<br/><br/>jump forwards to the start of a word,w,Cursor movement
+Cursor movement<br/><br/>jump forwards to the start of a word (words can contain punctuation),W,Cursor movement
+Cursor movement<br/><br/>jump forwards to the end of a word,e,Cursor movement
+Cursor movement<br/><br/>jump forwards to the end of a word (words can contain punctuation),E,Cursor movement
+Cursor movement<br/><br/>jump backwards to the start of a word,b,Cursor movement
+Cursor movement<br/><br/>jump backwards to the start of a word (words can contain punctuation),B,Cursor movement
+Cursor movement<br/><br/>jump backwards to the end of a word,ge,Cursor movement
+Cursor movement<br/><br/>jump backwards to the end of a word (words can contain punctuation),gE,Cursor movement
+"Cursor movement<br/><br/>move to matching character (default supported pairs: '()', '{}', '[]' - use :h matchpairs in vim for more info)",%,Cursor movement
+Cursor movement<br/><br/>jump to the start of the line,0,Cursor movement
+Cursor movement<br/><br/>jump to the first non-blank character of the line,^,Cursor movement
+Cursor movement<br/><br/>jump to the end of the line,$,Cursor movement
+Cursor movement<br/><br/>jump to the last non-blank character of the line,g_,Cursor movement
+Cursor movement<br/><br/>go to the first line of the document,gg,Cursor movement
+Cursor movement<br/><br/>go to the last line of the document,G,Cursor movement
+Cursor movement<br/><br/>go to line 5,5gg or 5G,Cursor movement
+Cursor movement<br/><br/>move to local declaration,gd,Cursor movement
+Cursor movement<br/><br/>move to global declaration,gD,Cursor movement
+Cursor movement<br/><br/>jump to next occurrence of character x,fx,Cursor movement
+Cursor movement<br/><br/>jump to before next occurrence of character x,tx,Cursor movement
+Cursor movement<br/><br/>jump to the previous occurrence of character x,Fx,Cursor movement
+Cursor movement<br/><br/>jump to after previous occurrence of character x,Tx,Cursor movement
+"Cursor movement<br/><br/>repeat previous f, t, F or T movement",;,Cursor movement
+"Cursor movement<br/><br/>repeat previous f, t, F or T movement, backwards",",",Cursor movement
+"Cursor movement<br/><br/>jump to next paragraph (or function/block, when editing code)",},Cursor movement
+"Cursor movement<br/><br/>jump to previous paragraph (or function/block, when editing code)",{,Cursor movement
+Cursor movement<br/><br/>center cursor on screen,zz,Cursor movement
+Cursor movement<br/><br/>move screen down one line (without moving cursor),Ctrl + e,Cursor movement
+Cursor movement<br/><br/>move screen up one line (without moving cursor),Ctrl + y,Cursor movement
+Cursor movement<br/><br/>move back one full screen,Ctrl + b,Cursor movement
+Cursor movement<br/><br/>move forward one full screen,Ctrl + f,Cursor movement
+Cursor movement<br/><br/>move forward 1/2 a screen,Ctrl + d,Cursor movement
+Cursor movement<br/><br/>move back 1/2 a screen,Ctrl + u,Cursor movement
+Insert mode - inserting/appending text<br/><br/>insert before the cursor,i,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>insert at the beginning of the line,I,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>insert (append) after the cursor,a,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>insert (append) at the end of the line,A,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>append (open) a new line below the current line,o,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>append (open) a new line above the current line,O,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>insert (append) at the end of the word,ea,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>delete the character before the cursor during insert mode,Ctrl + h,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>delete word before the cursor during insert mode,Ctrl + w,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>begin new line during insert mode,Ctrl + j,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>indent (move right) line one shiftwidth during insert mode,Ctrl + t,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>de-indent (move left) line one shiftwidth during insert mode,Ctrl + d,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>insert (auto-complete) next match before the cursor during insert mode,Ctrl + n,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>insert (auto-complete) previous match before the cursor during insert mode,Ctrl + p,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>insert the contents of register x,Ctrl + rx,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>Temporarily enter normal mode to issue one normal-mode command x.,Ctrl + ox,Insert mode - inserting/appending text
+Insert mode - inserting/appending text<br/><br/>exit insert mode,Esc,Insert mode - inserting/appending text
+Editing<br/><br/>replace a single character.,r,Editing
+"Editing<br/><br/>replace more than one character, until ESC is pressed.",R,Editing
+Editing<br/><br/>join line below to the current one with one space in between,J,Editing
+Editing<br/><br/>join line below to the current one without space in between,gJ,Editing
+Editing<br/><br/>reflow paragraph,gwip,Editing
+Editing<br/><br/>switch case up to motion,g~,Editing
+Editing<br/><br/>change to lowercase up to motion,gu,Editing
+Editing<br/><br/>change to uppercase up to motion,gU,Editing
+Editing<br/><br/>change (replace) entire line,cc,Editing
+Editing<br/><br/>change (replace) to the end of the line,c$ or C,Editing
+Editing<br/><br/>change (replace) entire word,ciw,Editing
+Editing<br/><br/>change (replace) to the end of the word,cw or ce,Editing
+Editing<br/><br/>delete character and substitute text,s,Editing
+Editing<br/><br/>delete line and substitute text (same as cc),S,Editing
+Editing<br/><br/>transpose two letters (delete and paste),xp,Editing
+Editing<br/><br/>undo,u,Editing
+Editing<br/><br/>restore (undo) last changed line,U,Editing
+Editing<br/><br/>redo,Ctrl + r,Editing
+Editing<br/><br/>repeat last command,.,Editing
+"Marking text (visual mode)<br/><br/>start visual mode, mark lines, then do a command (like y-yank)",v,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>start linewise visual mode,V,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>move to other end of marked area,o,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>start visual block mode,Ctrl + v,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>move to other corner of block,O,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>mark a word,aw,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>a block with (),ab,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>a block with {},aB,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>a block with <> tags,at,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>inner block with (),ib,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>inner block with {},iB,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>inner block with <> tags,it,Marking text (visual mode)
+Marking text (visual mode)<br/><br/>exit visual mode,Esc,Marking text (visual mode)
+Visual commands<br/><br/>shift text right,>,Visual commands
+Visual commands<br/><br/>shift text left,<,Visual commands
+Visual commands<br/><br/>yank (copy) marked text,y,Visual commands
+Visual commands<br/><br/>delete marked text,d,Visual commands
+Visual commands<br/><br/>switch case,~,Visual commands
+Visual commands<br/><br/>change marked text to lowercase,u,Visual commands
+Visual commands<br/><br/>change marked text to uppercase,U,Visual commands
+Registers<br/><br/>show registers content,:reg[isters],Registers
+Registers<br/><br/>yank into register x,"""xy",Registers
+Registers<br/><br/>paste contents of register x,"""xp",Registers
+Registers<br/><br/>yank into the system clipboard register,"""+y",Registers
+Registers<br/><br/>paste from the system clipboard register,"""+p",Registers
+Registers<br/><br/>last yank, 0,Registers
+"Registers<br/><br/>unnamed register, last delete or yank"," """,Registers
+Registers<br/><br/>current file name, %,Registers
+Registers<br/><br/>alternate file name, #,Registers
+Registers<br/><br/>clipboard contents (X11 primary), *,Registers
+Registers<br/><br/>clipboard contents (X11 clipboard), +,Registers
+Registers<br/><br/>last search pattern, /,Registers
+Registers<br/><br/>last command-line, :,Registers
+Registers<br/><br/>last inserted text, .,Registers
+Registers<br/><br/>last small (less than a line) delete, -,Registers
+Registers<br/><br/>expression register, =,Registers
+Registers<br/><br/>black hole register, _,Registers
+Marks and positions<br/><br/>list of marks,:marks,Marks and positions
+Marks and positions<br/><br/>set current position for mark A,ma,Marks and positions
+Marks and positions<br/><br/>jump to position of mark A,`a,Marks and positions
+Marks and positions<br/><br/>yank text to position of mark A,y`a,Marks and positions
+Marks and positions<br/><br/>go to the position where Vim was previously exited,`0,Marks and positions
+Marks and positions<br/><br/>go to the position when last editing this file,"`""",Marks and positions
+Marks and positions<br/><br/>go to the position of the last change in this file,`.,Marks and positions
+Marks and positions<br/><br/>go to the position before the last jump,``,Marks and positions
+Marks and positions<br/><br/>list of jumps,:ju[mps],Marks and positions
+Marks and positions<br/><br/>go to newer position in jump list,Ctrl + i,Marks and positions
+Marks and positions<br/><br/>go to older position in jump list,Ctrl + o,Marks and positions
+Marks and positions<br/><br/>list of changes,:changes,Marks and positions
+Marks and positions<br/><br/>go to newer position in change list,"g,",Marks and positions
+Marks and positions<br/><br/>go to older position in change list,g;,Marks and positions
+Marks and positions<br/><br/>jump to the tag under cursor,Ctrl + ],Marks and positions
+Macros<br/><br/>record macro a,qa,Macros
+Macros<br/><br/>stop recording macro,q,Macros
+Macros<br/><br/>run macro a,@a,Macros
+Macros<br/><br/>rerun last run macro,@@,Macros
+Cut and paste<br/><br/>yank (copy) a line,yy,Cut and paste
+Cut and paste<br/><br/>yank (copy) 2 lines,2yy,Cut and paste
+Cut and paste<br/><br/>yank (copy) the characters of the word from the cursor position to the start of the next word,yw,Cut and paste
+Cut and paste<br/><br/>yank (copy) word under the cursor,yiw,Cut and paste
+Cut and paste<br/><br/>yank (copy) word under the cursor and the space after or before it,yaw,Cut and paste
+Cut and paste<br/><br/>yank (copy) to end of line,y$ or Y,Cut and paste
+Cut and paste<br/><br/>put (paste) the clipboard after cursor,p,Cut and paste
+Cut and paste<br/><br/>put (paste) before cursor,P,Cut and paste
+Cut and paste<br/><br/>put (paste) the clipboard after cursor and leave cursor after the new text,gp,Cut and paste
+Cut and paste<br/><br/>put (paste) before cursor and leave cursor after the new text,gP,Cut and paste
+Cut and paste<br/><br/>delete (cut) a line,dd,Cut and paste
+Cut and paste<br/><br/>delete (cut) 2 lines,2dd,Cut and paste
+Cut and paste<br/><br/>delete (cut) the characters of the word from the cursor position to the start of the next word,dw,Cut and paste
+Cut and paste<br/><br/>delete (cut) word under the cursor,diw,Cut and paste
+Cut and paste<br/><br/>delete (cut) word under the cursor and the space after or before it,daw,Cut and paste
+Cut and paste<br/><br/>delete (cut) to the end of the line,d$ or D,Cut and paste
+Cut and paste<br/><br/>delete (cut) character,x,Cut and paste
+Indent text<br/><br/>indent (move right) line one shiftwidth,>>,Indent text
+Indent text<br/><br/>de-indent (move left) line one shiftwidth,<<,Indent text
+Indent text<br/><br/>indent a block with () or {} (cursor on brace),>%,Indent text
+Indent text<br/><br/>indent inner block with (),>ib,Indent text
+Indent text<br/><br/>indent a block with <> tags,>at,Indent text
+Indent text<br/><br/>re-indent 3 lines,3==,Indent text
+Indent text<br/><br/>re-indent a block with () or {} (cursor on brace),=%,Indent text
+Indent text<br/><br/>re-indent inner block with {},=iB,Indent text
+Indent text<br/><br/>re-indent entire buffer,gg=G,Indent text
+Indent text<br/><br/>paste and adjust indent to current line,]p,Indent text
+"Exiting<br/><br/>write (save) the file, but don't exit",:w,Exiting
+Exiting<br/><br/>write out the current file using sudo,:w !sudo tee %,Exiting
+Exiting<br/><br/>write (save) and quit,:wq or :x or ZZ,Exiting
+Exiting<br/><br/>quit (fails if there are unsaved changes),:q,Exiting
+Exiting<br/><br/>quit and throw away unsaved changes,:q! or ZQ,Exiting
+Exiting<br/><br/>write (save) and quit on all tabs,:wqa,Exiting
+Search and replace<br/><br/>search for pattern,/pattern,Search and replace
+Search and replace<br/><br/>search backward for pattern,?pattern,Search and replace
+Search and replace<br/><br/>'very magic' pattern: non-alphanumeric characters are interpreted as special regex symbols (no escaping needed),\vpattern,Search and replace
+Search and replace<br/><br/>repeat search in same direction,n,Search and replace
+Search and replace<br/><br/>repeat search in opposite direction,N,Search and replace
+Search and replace<br/><br/>replace all old with new throughout file,:%s/old/new/g,Search and replace
+Search and replace<br/><br/>replace all old with new throughout file with confirmations,:%s/old/new/gc,Search and replace
+Search and replace<br/><br/>remove highlighting of search matches,:noh[lsearch],Search and replace
+Search in multiple files<br/><br/>search for pattern in multiple files,:vim[grep] /pattern/ {`{file}`},Search in multiple files
+Search in multiple files<br/><br/>jump to the next match,:cn[ext],Search in multiple files
+Search in multiple files<br/><br/>jump to the previous match,:cp[revious],Search in multiple files
+Search in multiple files<br/><br/>open a window containing the list of matches,:cope[n],Search in multiple files
+Search in multiple files<br/><br/>close the quickfix window,:ccl[ose],Search in multiple files
+Tabs<br/><br/>open a file in a new tab,:tabnew or :tabnew {page.words.file},Tabs
+Tabs<br/><br/>move the current split window into its own tab,Ctrl + wT,Tabs
+Tabs<br/><br/>move to the next tab,gt or :tabn[ext],Tabs
+Tabs<br/><br/>move to the previous tab,gT or :tabp[revious],Tabs
+Tabs<br/><br/>move to tab number #,#gt,Tabs
+Tabs<br/><br/>move current tab to the #th position (indexed from 0),:tabm[ove] #,Tabs
+Tabs<br/><br/>close the current tab and all its windows,:tabc[lose],Tabs
+Tabs<br/><br/>close all tabs except for the current one,:tabo[nly],Tabs
+Tabs<br/><br/>run the command on all tabs (e.g. :tabdo q - closes all opened tabs),:tabdo command,Tabs
+Working with multiple files<br/><br/>edit a file in a new buffer,:e[dit] file,Working with multiple files
+Working with multiple files<br/><br/>go to the next buffer,:bn[ext],Working with multiple files
+Working with multiple files<br/><br/>go to the previous buffer,:bp[revious],Working with multiple files
+Working with multiple files<br/><br/>delete a buffer (close a file),:bd[elete],Working with multiple files
+Working with multiple files<br/><br/>go to a buffer by index #,:b[uffer]#,Working with multiple files
+Working with multiple files<br/><br/>go to a buffer by file,:b[uffer] file,Working with multiple files
+Working with multiple files<br/><br/>list all open buffers,:ls or :buffers,Working with multiple files
+Working with multiple files<br/><br/>open a file in a new buffer and split window,:sp[lit] file,Working with multiple files
+Working with multiple files<br/><br/>open a file in a new buffer and vertically split window,:vs[plit] file,Working with multiple files
+Working with multiple files<br/><br/>edit all buffers as vertical windows,:vert[ical] ba[ll],Working with multiple files
+Working with multiple files<br/><br/>edit all buffers as tabs,:tab ba[ll],Working with multiple files
+Working with multiple files<br/><br/>split window,Ctrl + ws,Working with multiple files
+Working with multiple files<br/><br/>split window vertically,Ctrl + wv,Working with multiple files
+Working with multiple files<br/><br/>switch windows,Ctrl + ww,Working with multiple files
+Working with multiple files<br/><br/>quit a window,Ctrl + wq,Working with multiple files
+Working with multiple files<br/><br/>exchange current window with next one,Ctrl + wx,Working with multiple files
+Working with multiple files<br/><br/>make all windows equal height & width,Ctrl + w=,Working with multiple files
+Working with multiple files<br/><br/>move cursor to the left window (vertical split),Ctrl + wh,Working with multiple files
+Working with multiple files<br/><br/>move cursor to the right window (vertical split),Ctrl + wl,Working with multiple files
+Working with multiple files<br/><br/>move cursor to the window below (horizontal split),Ctrl + wj,Working with multiple files
+Working with multiple files<br/><br/>move cursor to the window above (horizontal split),Ctrl + wk,Working with multiple files
+Working with multiple files<br/><br/>make current window full height at far left (leftmost vertical window),Ctrl + wH,Working with multiple files
+Working with multiple files<br/><br/>make current window full height at far right (rightmost vertical window),Ctrl + wL,Working with multiple files
+Working with multiple files<br/><br/>make current window full width at the very bottom (bottommost horizontal window),Ctrl + wJ,Working with multiple files
+Working with multiple files<br/><br/>make current window full width at the very top (topmost horizontal window),Ctrl + wK,Working with multiple files
